@@ -1,0 +1,1 @@
+For this project, the solution to a real-life problem was proposed using three-position mechanism synthesis. The input requirements and constraints were defined, and a graphic synthesis was performed to build an animated CAD or real model of the mechanism demonstrating the functionality of the solution.
