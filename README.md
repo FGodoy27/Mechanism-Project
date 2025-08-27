@@ -23,4 +23,6 @@ By playing with the radii and lengths, it was possible to calculate and predict 
 <img width="1920" height="1080" alt="A" src="assets/sint_1.png" />
 <img width="1920" height="1080" alt="A" src="assets/sint_2.png" />
 
-<img src="assets/image12.gif" alt="demo" />
+## Simulation of the Mechanism
+<img width="1920" height="1080" src="assets/image12.gif" alt="demo" />
+<img width="1920" height="1080" src="assets/image13.gif" alt="demo" />
