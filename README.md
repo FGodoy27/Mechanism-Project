@@ -29,10 +29,13 @@ Taking into account the dimensions given to the radii and lengths of the bars, t
 <img width="1920" height="1080" src="assets/image13.gif" alt="demo" />
 
 ## Analysis
-<img width="1920" height="1080" src="assets/image14.gif" alt="demo" />
+
 Kinematic analysis of the horsehead on a pumpjack reveals an oscillatory pattern in its position. The height varies periodically, reaching maximum speed at the midpoint of the stroke and maximum acceleration at the extremes. This data is essential for optimizing pumping efficiency by controlling the amplitude and frequency of oscillation to maximize suction without damaging the structure. In addition, the design must consider resistant materials and adjust the rotation speed to avoid sudden movements.
+<img width="1920" height="1080" src="assets/image14.gif" alt="demo" />
 
 ### We have three graphs showing the behavior of the mass:
 #### time vs. position
-time vs. velocity
-time vs. acceleration
+#### time vs. velocity
+#### time vs. acceleration
+<img width="1920" height="1080" alt="A" src="assets/image16.png" />
+
