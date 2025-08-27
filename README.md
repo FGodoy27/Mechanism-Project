@@ -19,5 +19,8 @@ The rod descends into the well and compresses the air in the cylinder. The press
 The crank mechanism converts the rotary motion of the engine into a vertical reciprocating motion. This characteristic pitching motion is what drives the pump rod.
 
 ## Synthesis of the Mechanism and the Dyad
+By playing with the radii and lengths, it was possible to calculate and predict the movements of the mechanism.
 <img width="1920" height="1080" alt="A" src="assets/sint_1.png" />
 <img width="1920" height="1080" alt="A" src="assets/sint_2.png" />
+
+<img src="assets/image12.gif" alt="demo" />
